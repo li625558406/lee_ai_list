@@ -1,6 +1,6 @@
 #### 效果
 
-![image-20260103200144836](C:\Users\lg186\Desktop\aiStudio\image-20260103200144836.png)
+![image-20260103200144836](image-20260103200144836.png)
 
 
 
