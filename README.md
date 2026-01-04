@@ -76,7 +76,7 @@ methods: {
 #### （3）下载后端服务nodejs
 
 ```
-git clone 
+git clone https://github.com/li625558406/lee_ai_list.git
 ```
 
 #### （4）修改配置文件.env
